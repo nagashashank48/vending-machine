@@ -1,0 +1,54 @@
+{
+  "types": [
+    {
+      "Title": "Strong Coffee",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlt-ghwG_exvnsWJUqjzg2mw_ZO31xiDiOntKXfE25SQ&s",
+      "id": 1,
+      "sugar": 2,
+      "milk": 50,
+      "coffee": 4,
+      "tea": 0,
+      "water": 100
+    },
+    {
+      "Title": "Light Coffee",
+      "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlt-ghwG_exvnsWJUqjzg2mw_ZO31xiDiOntKXfE25SQ&s",
+      "id": 2,
+      "sugar": 1.5,
+      "milk": 60,
+      "coffee": 2,
+      "tea": 0,
+      "water": 100
+    },
+    {
+      "Title": "Strong Tea",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTDXBWugtDrJxQH436iULqhXvMAEl_73PDHgxOXOGBUg&s",
+      "id": 3,
+      "sugar": 2,
+      "milk": 30,
+      "coffee": 0,
+      "tea": 4,
+      "water": 150
+    },
+    {
+      "Title": "Light Tea",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTDXBWugtDrJxQH436iULqhXvMAEl_73PDHgxOXOGBUg&s",
+      "id": 4,
+      "sugar": 1.5,
+      "milk": 40,
+      "coffee": 0,
+      "tea": 3,
+      "water": 150
+    }
+  ],
+  "Avaliable": [
+    {
+      "TeaLeaves": 348,
+      "CoffeePowder": 500,
+      "Sugar": 600,
+      "Milk": 5720,
+      "Water": 6450,
+      "id": 1
+    }
+  ]
+}
